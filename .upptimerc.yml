@@ -3,97 +3,97 @@ owner: mbuechner # Your GitHub organization or username, where this repository l
 repo: ddbstatus # The name of this repository
 
 sites:
-  - name: "https://www.archivportal-d.de (Subportal „Archivportal-D“)"
+  - name: "Subportal „Archivportal-D“"
     url: https://www.archivportal-d.de
-  - name: "https://download.codingdavinci.de (Filesharing von Coding da Vinci)"
+  - name: "Filesharing von Coding da Vinci"
     url: https://download.codingdavinci.de
-  - name: "https://report.codingdavinci.de (Webanalytik von Coding da Vinci)"
+  - name: "Webanalytik von Coding da Vinci"
     url: https://report.codingdavinci.de
-  - name: "https://codingdavinci.de (Coding da Vinci)"
+  - name: "Coding da Vinci"
     url: https://codingdavinci.de
-  - name: "https://hub.culturegraph.org/entityfacts/118540238 (Datendienst „Entity Facts“)"
+  - name: "Datendienst „Entity Facts“"
     url: https://hub.culturegraph.org/entityfacts/118540238
-  - name: "https://api.deutsche-digitale-bibliothek.de (API )"
+  - name: "API"
     url: https://api.deutsche-digitale-bibliothek.de
-  - name: "https://ausstellungen.deutsche-digitale-bibliothek.de/regen/ (Virtuelle Ausstellungen )"
+  - name: "Virtuelle Ausstellungen"
     url: https://ausstellungen.deutsche-digitale-bibliothek.de/regen/
-  - name: "https://ausstellungen-red.deutsche-digitale-bibliothek.de/ (Redaktionssystem der Virtuellen Ausstellungen)"
+  - name: "Redaktionssystem der Virtuellen Ausstellungen"
     url: https://ausstellungen-red.deutsche-digitale-bibliothek.de/
     expectedStatusCodes:
       - 401
-  - name: "https://ccc.deutsche-digitale-bibliothek.de (Subportal „Sammlungsgut aus kolonialen Kontexten“)"
+  - name: "Subportal „Sammlungsgut aus kolonialen Kontexten“"
     url: https://ccc.deutsche-digitale-bibliothek.de
-  - name: "https://cms.deutsche-digitale-bibliothek.de (Content Management System)"
+  - name: "Content Management System"
     url: https://cms.deutsche-digitale-bibliothek.de
-  - name: "https://datashare.deutsche-digitale-bibliothek.de/ (Datashare)"
+  - name: "Datashare"
     url: https://datashare.deutsche-digitale-bibliothek.de/
-  - name: "https://go.deutsche-digitale-bibliothek.de (DDBgo)"
+  - name: "DDBgo"
     url: https://go.deutsche-digitale-bibliothek.de
-  - name: "https://iiif.deutsche-digitale-bibliothek.de/image/2/01610200-7559-47e9-8f7c-bd4323cbd794/full/full/0/default.jpg (IIIF-Service )"
+  - name: "IIIF-Service"
     url: https://iiif.deutsche-digitale-bibliothek.de/image/2/01610200-7559-47e9-8f7c-bd4323cbd794/full/full/0/default.jpg
-  - name: "https://jira.deutsche-digitale-bibliothek.de (Jira)"
+  - name: "Jira"
     url: https://jira.deutsche-digitale-bibliothek.de
-  - name: "https://labs.deutsche-digitale-bibliothek.de/app/beagen (DDBlabs: Beagen)"
+  - name: "DDBlabs: Beagen"
     url: https://labs.deutsche-digitale-bibliothek.de/app/beagen
-  - name: "https://labs.deutsche-digitale-bibliothek.de/app/ddbapi (DDBlabs: DDBapi)"
+  - name: "DDBlabs: DDBapi"
     url: https://labs.deutsche-digitale-bibliothek.de/app/ddbapi
-  - name: "https://labs.deutsche-digitale-bibliothek.de/app/ddbid (DDBlabs: DDBid)"
+  - name: "DDBlabs: DDBid"
     url: https://labs.deutsche-digitale-bibliothek.de/app/ddbid
-  - name: "https://labs.deutsche-digitale-bibliothek.de/app/ddbidgen (DDBlabs: DDBIdGen)"
+  - name: "DDBlabs: DDBIdGen"
     url: https://labs.deutsche-digitale-bibliothek.de/app/ddbidgen
-  - name: "https://labs.deutsche-digitale-bibliothek.de/app/ddbmeme (DDBlabs: DDBmeme)"
+  - name: "DDBlabs: DDBmeme"
     url: https://labs.deutsche-digitale-bibliothek.de/app/ddbmeme
-  - name: "https://labs.deutsche-digitale-bibliothek.de/app/ef2so/118540238 (DDBlabs: EF2SO)"
+  - name: "DDBlabs: EF2SO"
     url: https://labs.deutsche-digitale-bibliothek.de/app/ef2so/118540238
-  - name: "https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3 (DDBlabs: IIIF)"
+  - name: "DDBlabs: IIIF"
     url: https://labs.deutsche-digitale-bibliothek.de/iiif/presentation/3
-  - name: "https://labs.deutsche-digitale-bibliothek.de/app/iiif-presentation (DDBlabs: IIIF Presentation)"
+  - name: "DDBlabs: IIIF Presentation"
     url: https://labs.deutsche-digitale-bibliothek.de/app/iiif-presentation
-  - name: "https://labs.deutsche-digitale-bibliothek.de/app/zdbdump (DDBlabs: ZDBdump)"
+  - name: "DDBlabs: ZDBdump"
     url: https://labs.deutsche-digitale-bibliothek.de/app/zdbdump
-  - name: "https://maps.deutsche-digitale-bibliothek.de/ (Kartenserver)"
+  - name: "Kartenserver"
     url: https://maps.deutsche-digitale-bibliothek.de/
-  - name: "https://mint.deutsche-digitale-bibliothek.de (DDBmint)"
+  - name: "DDBmint"
     url: https://mint.deutsche-digitale-bibliothek.de
     expectedStatusCodes:
       - 401
-  - name: "https://mqa.deutsche-digitale-bibliothek.de (Metadata Quality Assessment)"
+  - name: "Metadata Quality Assessment"
     url: https://mqa.deutsche-digitale-bibliothek.de
     expectedStatusCodes:
       - 401
-  - name: "https://oai.deutsche-digitale-bibliothek.de (DDBoai)"
+  - name: "DDBoai"
     url: https://oai.deutsche-digitale-bibliothek.de
-  - name: "https://pro.deutsche-digitale-bibliothek.de (DDBpro)"
+  - name: "DDBpro"
     url: https://pro.deutsche-digitale-bibliothek.de
-  - name: "https://registrierung.deutsche-digitale-bibliothek.de (Registrierung)"
+  - name: "Registrierung"
     url: https://registrierung.deutsche-digitale-bibliothek.de
-  - name: "https://report.deutsche-digitale-bibliothek.de/ (Webanalytik)"
+  - name: "Webanalytik"
     url: https://report.deutsche-digitale-bibliothek.de/
-  - name: "https://viewer.deutsche-digitale-bibliothek.de/ (DDBviewer)"
+  - name: "DDBviewer"
     url: https://viewer.deutsche-digitale-bibliothek.de/
-  - name: "https://viewer-dzp.deutsche-digitale-bibliothek.de (DDBviewer fürs Zeitungsportal)"
+  - name: "DDBviewer fürs Zeitungsportal"
     url: https://viewer-dzp.deutsche-digitale-bibliothek.de
-  - name: "https://webmail.deutsche-digitale-bibliothek.de/ (DDBwebmail)"
+  - name: "DDBwebmail"
     url: https://webmail.deutsche-digitale-bibliothek.de/
-  - name: "https://wiki.deutsche-digitale-bibliothek.de (Wiki)"
+  - name: "Wiki"
     url: https://wiki.deutsche-digitale-bibliothek.de
-  - name: "https://www.deutsche-digitale-bibliothek.de (Deutsche Digitale Bibliothek)"
+  - name: "Deutsche Digitale Bibliothek"
     url: https://www.deutsche-digitale-bibliothek.de
-  - name: "https://www.deutsche-digitale-bibliothek.de/newspaper (Zeitungsportal)"
+  - name: "Zeitungsportal"
     url: https://www.deutsche-digitale-bibliothek.de/newspaper
-  - name: "https://www.deutsche-digitale-bibliothek.de/item/TNPFDKO2VDGBZ72RWC6RKDNZYZQZP3XK (Deutsche Digitale Bibliothek: Objektseite)"
+  - name: "Deutsche Digitale Bibliothek: Objektseite"
     url: https://www.deutsche-digitale-bibliothek.de/item/TNPFDKO2VDGBZ72RWC6RKDNZYZQZP3XK
-  - name: "https://www.deutsche-digitale-bibliothek.de/person/gnd/118540238 (Deutsche Digitale Bibliothek: Personenseite)"
+  - name: "Deutsche Digitale Bibliothek: Personenseite"
     url: https://www.deutsche-digitale-bibliothek.de/person/gnd/118540238
-  - name: "https://www.deutsche-digitale-bibliothek.de/organization/YNKIAG7DFC4HZOATBPG75IFEY5BUDYUS (Deutsche Digitale Bibliothek: Organisationenseite)"
+  - name: "Deutsche Digitale Bibliothek: Organisationenseite"
     url: https://www.deutsche-digitale-bibliothek.de/organization/YNKIAG7DFC4HZOATBPG75IFEY5BUDYUS
-  - name: "https://www.deutsche-digitale-bibliothek.de/organization/gnd/2024343-1 (Deutsche Digitale Bibliothek: Organisationenseite (GND))"
+  - name: "Deutsche Digitale Bibliothek: Organisationenseite (GND)"
     url: https://www.deutsche-digitale-bibliothek.de/organization/gnd/2024343-1
-  - name: "https://www.deutsche-digitale-bibliothek.de/content/blog/was-fuer-ein-abend-was-fuer-ein-fest-wir-sagen-danke (Deutsche Digitale Bibliothek: Content)"
+  - name: "Deutsche Digitale Bibliothek: Content"
     url: https://www.deutsche-digitale-bibliothek.de/content/blog/was-fuer-ein-abend-was-fuer-ein-fest-wir-sagen-danke
-  - name: "http://xtree.digicult-verbund.de/ (xTree)"
+  - name: "xTree"
     url: http://xtree.digicult-verbund.de/
-  - name: "https://wiki.dnb.de (Wiki (DNB))"
+  - name: "Wiki (DNB)"
     url: https://wiki.dnb.de
 
 status-website:
@@ -107,11 +107,11 @@ status-website:
   name: DDBstatus
   introTitle: ""
   introMessage: ""
-  navbar:
-    - title: Status
-      href: /ddbstatus
-    - title: GitHub
-      href: https://github.com/mbuchner/ddbstatus
+  # navbar:
+    # - title: Status
+    #   href: /ddbstatus
+    # - title: GitHub
+    #   href: https://github.com/mbuchner/ddbstatus
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
