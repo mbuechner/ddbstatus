@@ -14,7 +14,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /ddbstatus
+  baseUrl: https://mbuechner.github.io/ddbstatus
   logoUrl: https://raw.githubusercontent.com/Deutsche-Digitale-Bibliothek/ddbpro/master/web/themes/custom/ddbp/src/images/logo-ddbpro.svg
   name: DDBstatus
   introTitle: "The **Deutsche Digitale Bibliothek** is the central national portal for culture and science. It gives internet access to the national cultural heritage."
