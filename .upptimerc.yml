@@ -3,11 +3,11 @@ owner: mbuechner # Your GitHub organization or username, where this repository l
 repo: ddbstatus # The name of this repository
 
 sites:
-  - name: Deutsche Digitale Bibliothek
+  - name: Deutsche Digitale Bibliothek (https://www.deutsche-digitale-bibliothek.de)
     url: https://www.deutsche-digitale-bibliothek.de
-  - name: DDBpro
+  - name: DDBpro (https://pro.deutsche-digitale-bibliothek.de)
     url: https://pro.deutsche-digitale-bibliothek.de
-  - name: DDBgo
+  - name: DDBgo (https://go.deutsche-digitale-bibliothek.de)
     url: https://go.deutsche-digitale-bibliothek.de
 
 status-website:
@@ -16,14 +16,79 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /ddbstatus
   logoUrl: https://raw.githubusercontent.com/Deutsche-Digitale-Bibliothek/ddbpro/master/web/themes/custom/ddbp/src/images/logo-ddbpro.svg
+  favicon: https://raw.githubusercontent.com/Deutsche-Digitale-Bibliothek/ddbpro/master/web/themes/custom/ddbp/favicon.ico
+  faviconSvg: https://raw.githubusercontent.com/Deutsche-Digitale-Bibliothek/ddbpro/master/web/themes/custom/ddbp/src/images/logo-signet-main.svg
   name: DDBstatus
+  theme: dark
   introTitle: "The **Deutsche Digitale Bibliothek** is the central national portal for culture and science. It gives internet access to the national cultural heritage."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
+      href: /ddbstatus
     - title: GitHub
       href: https://github.com/mbuchner/ddbstatus
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  activeIncidents: Active Incidents
+  allSystemsOperational: Alle Systeme sind verfügbar
+  incidentReport: "Incident #$NUMBER report →"
+  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  incidentTitle: Incident $NUMBER Details
+  incidentDetails: Incident Details
+  incidentFixed: Fixed
+  incidentOngoing: Ongoing
+  incidentOpenedAt: Opened at
+  incidentClosedAt: Closed at
+  incidentViewOnGitHub: View and Subscribe on GitHub
+  incidentCommentSummary: Posted at $DATE by $AUTHOR
+  incidentBack: ← Back to all incidents
+  pastIncidents: Past Incidents
+  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  liveStatus: Live Status
+  overallUptime: "Verfügbarkeit: $UPTIME"
+  overallUptimeTitle: Verfügbarkeit
+  averageResponseTime: "Durchschnittliche Reaktionszeit: $TIMEms"
+  averageResponseTimeTitle: Durchschnittliche Reaktionszeit
+  sevelDayResponseTime: Reaktionszeit der letzten 7 Tage
+  responseTimeMs: Reaktionszeit (ms)
+  up: Hoch
+  down: Runter
+  degraded: Degraded
+  ms: ms
+  loading: Laden
+  navGitHub: GitHub
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Rate limit exceeded
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: An error occurred
+  errorIntro: An error occurred in trying to get the latest status details.
+  errorText: You can try again in a few moments.
+  errorHome: Go to the homepage
+  pastScheduledMaintenance: Past Scheduled Maintenance
+  scheduledMaintenance: Scheduled Maintenance
+  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
+  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
+  startedAt: Started at
+  startsAt: Starts at
+  duration: Duration
+  durationMin: $DURATION minutes
+  incidentCompleted: Completed
+  incidentScheduled: Scheduled
+  duration24H: 24 Stunden
+  duration7D: 7 Tage
+  duration30D: 30 Tage
+  duration1Y: 1 Jahr
+  durationAll: Alles
