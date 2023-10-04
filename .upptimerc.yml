@@ -19,9 +19,8 @@ status-website:
   favicon: https://raw.githubusercontent.com/Deutsche-Digitale-Bibliothek/ddbpro/master/web/themes/custom/ddbp/favicon.ico
   faviconSvg: https://raw.githubusercontent.com/Deutsche-Digitale-Bibliothek/ddbpro/master/web/themes/custom/ddbp/src/images/logo-signet-main.svg
   name: DDBstatus
-  theme: dark
-  introTitle: "The **Deutsche Digitale Bibliothek** is the central national portal for culture and science. It gives internet access to the national cultural heritage."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle:
+  introMessage:
   navbar:
     - title: Status
       href: /ddbstatus
@@ -32,21 +31,21 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  activeIncidents: Active Incidents
+  activeIncidents: Aktive Zwischenfälle
   allSystemsOperational: Alle Systeme sind verfügbar
-  incidentReport: "Incident #$NUMBER report →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
-  incidentTitle: Incident $NUMBER Details
-  incidentDetails: Incident Details
-  incidentFixed: Fixed
-  incidentOngoing: Ongoing
-  incidentOpenedAt: Opened at
-  incidentClosedAt: Closed at
-  incidentViewOnGitHub: View and Subscribe on GitHub
-  incidentCommentSummary: Posted at $DATE by $AUTHOR
-  incidentBack: ← Back to all incidents
-  pastIncidents: Past Incidents
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  incidentReport: "Bericht des Zwischenfalls #$NUMBER →"
+  activeIncidentSummary: Geöffnet am $DATE mit $POSTS posts
+  incidentTitle: Details des Zwischenfall $NUMBER
+  incidentDetails: Zwischenfalldetails
+  incidentFixed: Gelöst
+  incidentOngoing: Offen
+  incidentOpenedAt: Geöffnet am
+  incidentClosedAt: Geschlossen am
+  incidentViewOnGitHub: Ansehen und Abonnieren auf GitHub
+  incidentCommentSummary: Geschrieben am $DATE von $AUTHOR
+  incidentBack: ← Zurück zu allen Zwischenfällen
+  pastIncidents: Frühere Zwischenfällen
+  pastIncidentsResolved: Gelöst in $MINUTES Minuten mit $POSTS posts
   liveStatus: Live Status
   overallUptime: "Verfügbarkeit: $UPTIME"
   overallUptimeTitle: Verfügbarkeit
@@ -56,39 +55,39 @@ i18n:
   responseTimeMs: Reaktionszeit (ms)
   up: Hoch
   down: Runter
-  degraded: Degraded
+  degraded: Degradiert
   ms: ms
   loading: Laden
   navGitHub: GitHub
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
-  rateLimitExceededTitle: Rate limit exceeded
-  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: What does this error mean?
-  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
-  rateLimitExceededErrorHowCanFix: How can I fix it?
-  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
-  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
-  rateLimitExceededHasSet: You have a personal access token set.
-  rateLimitExceededRemoveToken: Remove token
+  footer: 
+  rateLimitExceededTitle: Rate limit überschritten
+  rateLimitExceededIntro: Sie haben die Anzahl der Anfragen, die Sie in einer Stunde durchführen können, überschritten. Sie müssen warten, bevor Sie diese Website erneut aufrufen können. Alternativ können Sie ein persönliches GitHub-Zugangs-Token hinzufügen, um diese Website weiterhin zu nutzen.
+  rateLimitExceededWhatDoesErrorMean: Was bedeutet dieser Fehler?
+  rateLimitExceededErrorMeaning: Diese Website verwendet die GitHub-API, um Echtzeitdaten über den Status unserer Websites abzurufen. Standardmäßig erlaubt GitHub jeder IP-Adresse 60 Anfragen pro Stunde, die Sie verbraucht haben.
+  rateLimitExceededErrorHowCanFix: Wie kann ich das reparieren?
+  rateLimitExceededErrorFix: Sie können eine weitere Stunde warten und das Limit für Ihre IP-Adresse wird wiederhergestellt. Alternativ können Sie Ihr persönliches GitHub-Zugangs-Token hinzufügen, mit dem Sie zusätzliche 5.000 Anfragen pro Stunde erhalten.
+  rateLimitExceededGeneratePAT: Erfahren Sie, wie Sie ein persönliches Zugangstoken erstellen
+  rateLimitExceededHasSet: Sie haben ein persönliches Zugangstoken gesetzt.
+  rateLimitExceededRemoveToken: Zugangstoken entfernen
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
-  rateLimitExceededCopyPastePAT: Copy and paste your token
-  rateLimitExceededSaveToken: Save token
-  errorTitle: An error occurred
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
-  errorHome: Go to the homepage
-  pastScheduledMaintenance: Past Scheduled Maintenance
-  scheduledMaintenance: Scheduled Maintenance
-  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
-  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
-  startedAt: Started at
-  startsAt: Starts at
-  duration: Duration
-  durationMin: $DURATION minutes
-  incidentCompleted: Completed
-  incidentScheduled: Scheduled
-  duration24H: 24 Stunden
-  duration7D: 7 Tage
-  duration30D: 30 Tage
-  duration1Y: 1 Jahr
+  rateLimitExceededCopyPastePAT: Kopieren und Einfügen des Tokens
+  rateLimitExceededSaveToken: Token speichern
+  errorTitle: Es ist ein Fehler aufgetreten
+  errorIntro: Beim Versuch, die neuesten Statusinformationen zu erhalten, ist ein Fehler aufgetreten.
+  errorText: Sie können es in wenigen Augenblicken erneut versuchen.
+  errorHome: Zur Homepage gehen
+  pastScheduledMaintenance: Vergangene planmäßige Wartung
+  scheduledMaintenance: Planmäßige Wartung
+  scheduledMaintenanceSummaryStarted: Begonnen am $DATE für $DURATION Minuten
+  scheduledMaintenanceSummaryStarts: Beginnt am $DATE für $DURATION Minuten
+  startedAt: Angefangen am
+  startsAt: Fängt an am
+  duration: Dauer
+  durationMin: $DURATION Minuten
+  incidentCompleted: Abgeschlossen
+  incidentScheduled: Geplant
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1y
   durationAll: Alles
