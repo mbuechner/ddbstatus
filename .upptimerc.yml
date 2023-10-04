@@ -19,8 +19,8 @@ status-website:
   favicon: https://raw.githubusercontent.com/Deutsche-Digitale-Bibliothek/ddbpro/master/web/themes/custom/ddbp/favicon.ico
   faviconSvg: https://raw.githubusercontent.com/Deutsche-Digitale-Bibliothek/ddbpro/master/web/themes/custom/ddbp/src/images/logo-signet-main.svg
   name: DDBstatus
-  introTitle:
-  introMessage:
+  introTitle: ""
+  introMessage: ""
   navbar:
     - title: Status
       href: /ddbstatus
@@ -31,21 +31,21 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  activeIncidents: Aktive Zwischenfälle
+  activeIncidents: Aktive Vorfälle
   allSystemsOperational: Alle Systeme sind verfügbar
-  incidentReport: "Bericht des Zwischenfalls #$NUMBER →"
-  activeIncidentSummary: Geöffnet am $DATE mit $POSTS posts
-  incidentTitle: Details des Zwischenfall $NUMBER
-  incidentDetails: Zwischenfalldetails
+  incidentReport: "Bericht des Vorfalls #$NUMBER →"
+  activeIncidentSummary: Geöffnet am $DATE mit $POSTS Beitrag
+  incidentTitle: Details des Vorfall $NUMBER
+  incidentDetails: Details des Vorfalls
   incidentFixed: Gelöst
   incidentOngoing: Offen
   incidentOpenedAt: Geöffnet am
   incidentClosedAt: Geschlossen am
   incidentViewOnGitHub: Ansehen und Abonnieren auf GitHub
   incidentCommentSummary: Geschrieben am $DATE von $AUTHOR
-  incidentBack: ← Zurück zu allen Zwischenfällen
-  pastIncidents: Frühere Zwischenfällen
-  pastIncidentsResolved: Gelöst in $MINUTES Minuten mit $POSTS posts
+  incidentBack: ← Zurück zu allen Vorfällen
+  pastIncidents: Frühere Vorfällen
+  pastIncidentsResolved: Gelöst in $MINUTES Minuten mit $POSTS Beiträgen
   liveStatus: Live Status
   overallUptime: "Verfügbarkeit: $UPTIME"
   overallUptimeTitle: Verfügbarkeit
@@ -59,14 +59,14 @@ i18n:
   ms: ms
   loading: Laden
   navGitHub: GitHub
-  footer: 
-  rateLimitExceededTitle: Rate limit überschritten
+  footer: ""
+  rateLimitExceededTitle: Anzahl der Zugriffe überschritten
   rateLimitExceededIntro: Sie haben die Anzahl der Anfragen, die Sie in einer Stunde durchführen können, überschritten. Sie müssen warten, bevor Sie diese Website erneut aufrufen können. Alternativ können Sie ein persönliches GitHub-Zugangs-Token hinzufügen, um diese Website weiterhin zu nutzen.
   rateLimitExceededWhatDoesErrorMean: Was bedeutet dieser Fehler?
-  rateLimitExceededErrorMeaning: Diese Website verwendet die GitHub-API, um Echtzeitdaten über den Status unserer Websites abzurufen. Standardmäßig erlaubt GitHub jeder IP-Adresse 60 Anfragen pro Stunde, die Sie verbraucht haben.
-  rateLimitExceededErrorHowCanFix: Wie kann ich das reparieren?
-  rateLimitExceededErrorFix: Sie können eine weitere Stunde warten und das Limit für Ihre IP-Adresse wird wiederhergestellt. Alternativ können Sie Ihr persönliches GitHub-Zugangs-Token hinzufügen, mit dem Sie zusätzliche 5.000 Anfragen pro Stunde erhalten.
-  rateLimitExceededGeneratePAT: Erfahren Sie, wie Sie ein persönliches Zugangstoken erstellen
+  rateLimitExceededErrorMeaning: Diese Website verwendet die GitHub-API, um Echtzeitdaten über den Status der Websiten abzurufen. Standardmäßig erlaubt GitHub jeder IP-Adresse 60 Anfragen pro Stunde. Diese haben Sie verbraucht.
+  rateLimitExceededErrorHowCanFix: Was kann ich tun?
+  rateLimitExceededErrorFix: Sie können eine Stunde warten bis das Limit für Ihre IP-Adresse wiederhergestellt wird. Alternativ können Sie Ihr persönliches GitHub-Zugangs-Token hinzufügen, mit dem Sie zusätzliche 5.000 Anfragen pro Stunde erhalten.
+  rateLimitExceededGeneratePAT: Wie erstelle ich einen persönlichen Zugangstoken?
   rateLimitExceededHasSet: Sie haben ein persönliches Zugangstoken gesetzt.
   rateLimitExceededRemoveToken: Zugangstoken entfernen
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
@@ -74,7 +74,7 @@ i18n:
   rateLimitExceededSaveToken: Token speichern
   errorTitle: Es ist ein Fehler aufgetreten
   errorIntro: Beim Versuch, die neuesten Statusinformationen zu erhalten, ist ein Fehler aufgetreten.
-  errorText: Sie können es in wenigen Augenblicken erneut versuchen.
+  errorText: Bitte versuchen Sie es in wenigen Augenblicken erneut.
   errorHome: Zur Homepage gehen
   pastScheduledMaintenance: Vergangene planmäßige Wartung
   scheduledMaintenance: Planmäßige Wartung
