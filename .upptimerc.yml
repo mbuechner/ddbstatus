@@ -136,8 +136,8 @@ i18n:
   sevelDayResponseTime: Reaktionszeit der letzten 7 Tage
   responseTimeMs: Reaktionszeit (ms)
   up: Hoch
-  down: Runter
-  degraded: Degradiert
+  down: Niedrig
+  degraded: Verschlechtert
   ms: ms
   loading: Laden
   navGitHub: GitHub
