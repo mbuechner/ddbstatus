@@ -1,7 +1,7 @@
 url: https://labs.deutsche-digitale-bibliothek.de/app/ddbid
-status: up
-code: 200
-responseTime: 765
-lastUpdated: 2023-10-07T23:14:22.120Z
+status: down
+code: 503
+responseTime: 15404
+lastUpdated: 2023-10-08T14:43:50.973Z
 startTime: 2023-10-04T15:01:20.014Z
 generator: Upptime <https://github.com/upptime/upptime>
