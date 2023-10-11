@@ -329,11 +329,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/labs.deutsche-digitale-bibliothek.de.ico",
     "slug": "dd-blabs-dd-bmeme",
     "status": "up",
-    "uptime": "90.03%",
+    "uptime": "90.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.03%",
-    "uptimeMonth": "90.03%",
-    "uptimeYear": "90.03%",
+    "uptimeWeek": "90.36%",
+    "uptimeMonth": "90.36%",
+    "uptimeYear": "90.36%",
     "time": 285,
     "timeDay": 274,
     "timeWeek": 285,
@@ -763,17 +763,19 @@
     "url": "https://wiki.dnb.de",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.dnb.de.ico",
     "slug": "wiki-dnb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1532,
-    "timeDay": 1974,
-    "timeWeek": 1532,
-    "timeMonth": 1532,
-    "timeYear": 1532,
-    "dailyMinutesDown": {}
+    "time": 2273,
+    "timeDay": 5457,
+    "timeWeek": 2273,
+    "timeMonth": 2273,
+    "timeYear": 2273,
+    "dailyMinutesDown": {
+      "2023-10-11": 0
+    }
   }
 ]
