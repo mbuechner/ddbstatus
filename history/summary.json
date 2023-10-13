@@ -333,11 +333,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/labs.deutsche-digitale-bibliothek.de.ico",
     "slug": "dd-blabs-dd-bmeme",
     "status": "up",
-    "uptime": "92.40%",
+    "uptime": "92.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "92.40%",
+    "uptimeMonth": "92.58%",
+    "uptimeYear": "92.58%",
     "time": 300,
     "timeDay": 408,
     "timeWeek": 380,
@@ -605,9 +605,9 @@
     "url": "https://wiki.deutsche-digitale-bibliothek.de",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.deutsche-digitale-bibliothek.de.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -616,7 +616,9 @@
     "timeWeek": 1026,
     "timeMonth": 1008,
     "timeYear": 1008,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-13": 0
+    }
   },
   {
     "name": "Deutsche Digitale Bibliothek",
