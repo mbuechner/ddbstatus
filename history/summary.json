@@ -206,19 +206,19 @@
     "url": "https://go.deutsche-digitale-bibliothek.de",
     "icon": "https://icons.duckduckgo.com/ip3/go.deutsche-digitale-bibliothek.de.ico",
     "slug": "dd-bgo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1021,
-    "timeDay": 4271,
-    "timeWeek": 1500,
-    "timeMonth": 1021,
-    "timeYear": 1021,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 999,
+    "timeDay": 3025,
+    "timeWeek": 1392,
+    "timeMonth": 999,
+    "timeYear": 999,
     "dailyMinutesDown": {
-      "2023-10-16": 1
+      "2023-10-16": 14
     }
   },
   {
@@ -298,19 +298,19 @@
     "url": "https://labs.deutsche-digitale-bibliothek.de/app/ddbid",
     "icon": "https://icons.duckduckgo.com/ip3/labs.deutsche-digitale-bibliothek.de.ico",
     "slug": "dd-blabs-dd-bid",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1472,
-    "timeDay": 428,
-    "timeWeek": 599,
-    "timeMonth": 1472,
-    "timeYear": 1472,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1428,
+    "timeDay": 496,
+    "timeWeek": 603,
+    "timeMonth": 1428,
+    "timeYear": 1428,
     "dailyMinutesDown": {
-      "2023-10-16": 1
+      "2023-10-16": 14
     }
   },
   {
