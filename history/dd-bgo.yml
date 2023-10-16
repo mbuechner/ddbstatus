@@ -1,7 +1,7 @@
 url: https://go.deutsche-digitale-bibliothek.de
-status: down
-code: 500
-responseTime: 7784
-lastUpdated: 2023-10-16T18:22:17.080Z
+status: up
+code: 200
+responseTime: 534
+lastUpdated: 2023-10-16T18:36:26.617Z
 startTime: 2023-10-04T15:01:13.886Z
 generator: Upptime <https://github.com/upptime/upptime>
