@@ -4,18 +4,20 @@
     "url": "https://www.archivportal-d.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.archivportal-d.de.ico",
     "slug": "subportal-archivportal-d",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1113,
     "timeDay": 1338,
     "timeWeek": 1120,
     "timeMonth": 1113,
     "timeYear": 1113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-19": 1
+    }
   },
   {
     "name": "Filesharing von Coding da Vinci",
@@ -333,11 +335,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/labs.deutsche-digitale-bibliothek.de.ico",
     "slug": "dd-blabs-dd-bmeme",
     "status": "up",
-    "uptime": "95.63%",
+    "uptime": "95.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.63%",
-    "uptimeYear": "95.63%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "95.65%",
     "time": 328,
     "timeDay": 514,
     "timeWeek": 386,
@@ -426,19 +428,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/maps.deutsche-digitale-bibliothek.de.ico",
     "slug": "kartenserver",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 728,
     "timeDay": 656,
     "timeWeek": 730,
     "timeMonth": 728,
     "timeYear": 728,
-    "dailyMinutesDown": {
-      "2023-10-19": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DDBmint",
