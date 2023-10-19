@@ -4,19 +4,19 @@
     "url": "https://www.archivportal-d.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.archivportal-d.de.ico",
     "slug": "subportal-archivportal-d",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1096,
-    "timeDay": 1071,
-    "timeWeek": 1080,
-    "timeMonth": 1096,
-    "timeYear": 1096,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1109,
+    "timeDay": 1160,
+    "timeWeek": 1109,
+    "timeMonth": 1109,
+    "timeYear": 1109,
     "dailyMinutesDown": {
-      "2023-10-19": 1
+      "2023-10-19": 15
     }
   },
   {
