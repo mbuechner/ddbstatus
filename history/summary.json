@@ -296,19 +296,19 @@
     "url": "https://labs.deutsche-digitale-bibliothek.de/app/ddbid",
     "icon": "https://icons.duckduckgo.com/ip3/labs.deutsche-digitale-bibliothek.de.ico",
     "slug": "dd-blabs-dd-bid",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1252,
-    "timeDay": 528,
-    "timeWeek": 622,
-    "timeMonth": 1252,
-    "timeYear": 1252,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1234,
+    "timeDay": 657,
+    "timeWeek": 637,
+    "timeMonth": 1234,
+    "timeYear": 1234,
     "dailyMinutesDown": {
-      "2023-10-22": 1
+      "2023-10-22": 9
     }
   },
   {
