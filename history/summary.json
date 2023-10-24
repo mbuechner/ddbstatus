@@ -24,7 +24,7 @@
     "slug": "filesharing-von-coding-da-vinci",
     "status": "up",
     "uptime": "97.17%",
-    "uptimeDay": "81.11%",
+    "uptimeDay": "81.87%",
     "uptimeWeek": "92.04%",
     "uptimeMonth": "97.17%",
     "uptimeYear": "97.17%",
@@ -690,18 +690,20 @@
     "url": "https://www.deutsche-digitale-bibliothek.de/person/gnd/118540238",
     "icon": "https://icons.duckduckgo.com/ip3/www.deutsche-digitale-bibliothek.de.ico",
     "slug": "deutsche-digitale-bibliothek-personenseite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 982,
-    "timeDay": 893,
-    "timeWeek": 1063,
-    "timeMonth": 982,
-    "timeYear": 982,
-    "dailyMinutesDown": {}
+    "time": 969,
+    "timeDay": 768,
+    "timeWeek": 1011,
+    "timeMonth": 969,
+    "timeYear": 969,
+    "dailyMinutesDown": {
+      "2023-10-24": 1
+    }
   },
   {
     "name": "Deutsche Digitale Bibliothek: Organisationenseite",
