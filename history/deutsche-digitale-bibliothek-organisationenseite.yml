@@ -1,7 +1,7 @@
 url: https://www.deutsche-digitale-bibliothek.de/organization/YNKIAG7DFC4HZOATBPG75IFEY5BUDYUS
-status: up
-code: 200
-responseTime: 353
-lastUpdated: 2023-10-24T23:15:37.357Z
+status: down
+code: 503
+responseTime: 130
+lastUpdated: 2023-10-25T13:49:54.947Z
 startTime: 2023-10-04T15:01:49.281Z
 generator: Upptime <https://github.com/upptime/upptime>
