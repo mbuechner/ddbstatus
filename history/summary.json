@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/download.codingdavinci.de.ico",
     "slug": "filesharing-von-coding-da-vinci",
     "status": "up",
-    "uptime": "97.33%",
+    "uptime": "97.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.04%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "97.33%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "97.34%",
     "time": 2732,
     "timeDay": 1619,
     "timeWeek": 3328,
@@ -156,19 +156,19 @@
     "url": "https://ccc.deutsche-digitale-bibliothek.de",
     "icon": "https://icons.duckduckgo.com/ip3/ccc.deutsche-digitale-bibliothek.de.ico",
     "slug": "subportal-sammlungsgut-aus-kolonialen-kontexten",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 1024,
     "timeDay": 875,
     "timeWeek": 965,
     "timeMonth": 1024,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2023-10-25": 26
+      "2023-10-25": 30
     }
   },
   {
@@ -339,11 +339,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/labs.deutsche-digitale-bibliothek.de.ico",
     "slug": "dd-blabs-dd-bmeme",
     "status": "up",
-    "uptime": "96.93%",
+    "uptime": "96.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.93%",
-    "uptimeYear": "96.93%",
+    "uptimeMonth": "96.94%",
+    "uptimeYear": "96.94%",
     "time": 330,
     "timeDay": 215,
     "timeWeek": 363,
@@ -562,19 +562,19 @@
     "url": "https://viewer.deutsche-digitale-bibliothek.de/",
     "icon": "https://icons.duckduckgo.com/ip3/viewer.deutsche-digitale-bibliothek.de.ico",
     "slug": "dd-bviewer",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1297,
     "timeDay": 1271,
     "timeWeek": 1268,
     "timeMonth": 1297,
     "timeYear": 1297,
     "dailyMinutesDown": {
-      "2023-10-25": 24
+      "2023-10-25": 26
     }
   },
   {
@@ -750,9 +750,9 @@
     "url": "https://www.deutsche-digitale-bibliothek.de/content/blog/was-fuer-ein-abend-was-fuer-ein-fest-wir-sagen-danke",
     "icon": "https://icons.duckduckgo.com/ip3/www.deutsche-digitale-bibliothek.de.ico",
     "slug": "deutsche-digitale-bibliothek-content",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "98.40%",
+    "uptimeDay": "98.36%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
@@ -762,7 +762,7 @@
     "timeMonth": 719,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2023-10-25": 23
+      "2023-10-25": 24
     }
   },
   {
