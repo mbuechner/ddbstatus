@@ -610,19 +610,19 @@
     "url": "https://webmail.deutsche-digitale-bibliothek.de/",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.deutsche-digitale-bibliothek.de.ico",
     "slug": "dd-bwebmail",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "94.63%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 3097,
-    "timeDay": 2809,
-    "timeWeek": 2548,
-    "timeMonth": 3097,
-    "timeYear": 3097,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "94.46%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 3135,
+    "timeDay": 3514,
+    "timeWeek": 2757,
+    "timeMonth": 3135,
+    "timeYear": 3135,
     "dailyMinutesDown": {
-      "2023-10-31": 77
+      "2023-10-31": 80
     }
   },
   {
