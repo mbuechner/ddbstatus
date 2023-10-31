@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/download.codingdavinci.de.ico",
     "slug": "filesharing-von-coding-da-vinci",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.30%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "97.46%",
+    "uptimeMonth": "97.47%",
+    "uptimeYear": "97.47%",
     "time": 2722,
     "timeDay": 2566,
     "timeWeek": 2443,
@@ -611,18 +611,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmail.deutsche-digitale-bibliothek.de.ico",
     "slug": "dd-bwebmail",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "93.71%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.79%",
+    "uptimeDay": "94.46%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 3132,
     "timeDay": 3355,
     "timeWeek": 2788,
     "timeMonth": 3132,
     "timeYear": 3132,
     "dailyMinutesDown": {
-      "2023-10-31": 91
+      "2023-10-31": 80
     }
   },
   {
@@ -715,12 +715,12 @@
     "status": "up",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.92%",
+    "uptimeWeek": "99.10%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
     "time": 915,
     "timeDay": 1078,
-    "timeWeek": 768,
+    "timeWeek": 769,
     "timeMonth": 915,
     "timeYear": 915,
     "dailyMinutesDown": {
@@ -809,17 +809,19 @@
     "url": "https://wiki.dnb.de",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.dnb.de.ico",
     "slug": "wiki-dnb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2700,
-    "timeDay": 1662,
-    "timeWeek": 2533,
-    "timeMonth": 2700,
-    "timeYear": 2700,
-    "dailyMinutesDown": {}
+    "time": 2652,
+    "timeDay": 1312,
+    "timeWeek": 2376,
+    "timeMonth": 2652,
+    "timeYear": 2652,
+    "dailyMinutesDown": {
+      "2023-10-31": 0
+    }
   }
 ]
