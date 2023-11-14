@@ -1,7 +1,7 @@
 url: https://labs.deutsche-digitale-bibliothek.de/app/ddbidgen
-status: down
-code: 503
-responseTime: 170
-lastUpdated: 2023-11-14T10:17:16.252Z
+status: up
+code: 200
+responseTime: 369
+lastUpdated: 2023-11-14T12:19:05.616Z
 startTime: 2023-10-04T15:01:21.008Z
 generator: Upptime <https://github.com/upptime/upptime>
