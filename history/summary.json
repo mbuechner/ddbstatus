@@ -553,12 +553,12 @@
     "status": "up",
     "uptime": "98.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.79%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "98.52%",
     "uptimeYear": "98.86%",
     "time": 1354,
     "timeDay": 1803,
-    "timeWeek": 1335,
+    "timeWeek": 1393,
     "timeMonth": 1288,
     "timeYear": 1354,
     "dailyMinutesDown": {
@@ -804,10 +804,10 @@
     "url": "http://xtree.digicult-verbund.de/",
     "icon": "https://icons.duckduckgo.com/ip3/xtree.digicult-verbund.de.ico",
     "slug": "x-tree",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1055,
@@ -815,7 +815,9 @@
     "timeWeek": 1107,
     "timeMonth": 1039,
     "timeYear": 1055,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-16": 1
+    }
   },
   {
     "name": "Wiki (DNB)",
