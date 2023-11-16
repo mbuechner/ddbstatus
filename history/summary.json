@@ -66,18 +66,19 @@
     "url": "https://codingdavinci.de",
     "icon": "https://icons.duckduckgo.com/ip3/codingdavinci.de.ico",
     "slug": "coding-da-vinci",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
-    "time": 2086,
-    "timeDay": 1562,
-    "timeWeek": 1339,
-    "timeMonth": 2017,
-    "timeYear": 2086,
+    "time": 2056,
+    "timeDay": 1030,
+    "timeWeek": 1234,
+    "timeMonth": 1975,
+    "timeYear": 2056,
     "dailyMinutesDown": {
+      "2023-11-16": 1,
       "2023-10-26": 18,
       "2023-10-12": 31
     }
@@ -805,19 +806,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/xtree.digicult-verbund.de.ico",
     "slug": "x-tree",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1056,
     "timeDay": 1279,
     "timeWeek": 1104,
     "timeMonth": 1041,
     "timeYear": 1056,
-    "dailyMinutesDown": {
-      "2023-11-16": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wiki (DNB)",
