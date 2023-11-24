@@ -124,10 +124,10 @@
     "url": "https://ausstellungen.deutsche-digitale-bibliothek.de/regen/",
     "icon": "https://icons.duckduckgo.com/ip3/ausstellungen.deutsche-digitale-bibliothek.de.ico",
     "slug": "virtuelle-ausstellungen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "81.16%",
-    "uptimeWeek": "97.10%",
+    "uptimeDay": "81.44%",
+    "uptimeWeek": "97.09%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.60%",
     "time": 4570,
@@ -136,7 +136,7 @@
     "timeMonth": 4406,
     "timeYear": 4570,
     "dailyMinutesDown": {
-      "2023-11-24": 81,
+      "2023-11-24": 82,
       "2023-11-23": 190,
       "2023-11-21": 21
     }
