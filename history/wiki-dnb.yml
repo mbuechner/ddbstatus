@@ -1,7 +1,7 @@
 url: https://wiki.dnb.de
-status: up
-code: 200
-responseTime: 1656
-lastUpdated: 2023-11-23T23:17:33.613Z
+status: down
+code: 503
+responseTime: 9356
+lastUpdated: 2023-11-24T13:17:43.373Z
 startTime: 2023-10-04T15:01:53.832Z
 generator: Upptime <https://github.com/upptime/upptime>
