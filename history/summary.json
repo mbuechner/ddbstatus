@@ -599,9 +599,9 @@
     "url": "https://viewer.deutsche-digitale-bibliothek.de/",
     "icon": "https://icons.duckduckgo.com/ip3/viewer.deutsche-digitale-bibliothek.de.ico",
     "slug": "dd-bviewer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
@@ -611,6 +611,7 @@
     "timeMonth": 1214,
     "timeYear": 1240,
     "dailyMinutesDown": {
+      "2023-11-29": 0,
       "2023-10-25": 135
     }
   },
