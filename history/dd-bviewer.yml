@@ -1,7 +1,7 @@
 url: https://viewer.deutsche-digitale-bibliothek.de/
-status: down
-code: 503
-responseTime: 907
-lastUpdated: 2023-12-19T20:31:38.484Z
+status: up
+code: 200
+responseTime: 1152
+lastUpdated: 2023-12-19T20:41:27.243Z
 startTime: 2023-10-04T15:01:36.511Z
 generator: Upptime <https://github.com/upptime/upptime>
