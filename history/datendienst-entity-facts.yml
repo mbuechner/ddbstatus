@@ -1,7 +1,7 @@
 url: https://hub.culturegraph.org/entityfacts/118540238
-status: down
-code: 503
-responseTime: 10933
-lastUpdated: 2023-12-21T12:52:15.537Z
+status: up
+code: 200
+responseTime: 1671
+lastUpdated: 2023-12-21T13:10:04.368Z
 startTime: 2023-10-04T15:00:57.430Z
 generator: Upptime <https://github.com/upptime/upptime>
