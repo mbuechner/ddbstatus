@@ -74,7 +74,7 @@
     "slug": "coding-da-vinci",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "90.35%",
+    "uptimeDay": "91.62%",
     "uptimeWeek": "98.18%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.81%",
@@ -453,19 +453,19 @@
     "url": "https://labs.deutsche-digitale-bibliothek.de/app/zdbdump",
     "icon": "https://icons.duckduckgo.com/ip3/labs.deutsche-digitale-bibliothek.de.ico",
     "slug": "dd-blabs-zd-bdump",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 209,
-    "timeWeek": 332,
-    "timeMonth": 371,
-    "timeYear": 389,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 390,
+    "timeDay": 301,
+    "timeWeek": 349,
+    "timeMonth": 374,
+    "timeYear": 390,
     "dailyMinutesDown": {
-      "2024-01-05": 1
+      "2024-01-05": 18
     }
   },
   {
@@ -875,10 +875,10 @@
     "url": "http://xtree.digicult-verbund.de/",
     "icon": "https://icons.duckduckgo.com/ip3/xtree.digicult-verbund.de.ico",
     "slug": "x-tree",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1068,
@@ -886,7 +886,9 @@
     "timeWeek": 1142,
     "timeMonth": 1084,
     "timeYear": 1068,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 1
+    }
   },
   {
     "name": "Wiki (DNB)",
