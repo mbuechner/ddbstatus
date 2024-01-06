@@ -1,7 +1,7 @@
 url: https://report.deutsche-digitale-bibliothek.de/
-status: up
-code: 200
-responseTime: 1353
-lastUpdated: 2024-01-05T23:16:20.600Z
+status: down
+code: 503
+responseTime: 500
+lastUpdated: 2024-01-06T01:38:41.380Z
 startTime: 2023-10-04T15:01:34.833Z
 generator: Upptime <https://github.com/upptime/upptime>
